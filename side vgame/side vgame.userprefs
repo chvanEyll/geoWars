@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\addRemoveShape.cs">
+    <Files>
+      <File FileName="Assets\circleEatTriangle.cs" Line="37" Column="22" />
+      <File FileName="Assets\setStartingSpot.cs" Line="99" Column="33" />
+      <File FileName="Assets\swipeShapeAway.cs" Line="35" Column="4" />
+      <File FileName="Assets\triangleCutSquare.cs" Line="22" Column="32" />
+      <File FileName="Assets\squareEatCircle.cs" Line="13" Column="26" />
+      <File FileName="Assets\cloudStealsAll.cs" Line="4" Column="46" />
+      <File FileName="Assets\addRemoveShape.cs" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
